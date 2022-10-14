@@ -2,8 +2,7 @@
 
 ![Computer drawings](/images/code_201_readme.jpg)
 
-#### Photo by <a target="_blank" href="https://freerangestock.com/photographer/Jack-Moreh/2728">Jack Moreh</a> from <a target="_blank" href="https://freerangestock.com">Freerange Stock</a>
-
+#### [Photo by Jack Moreh from Freerange Stock](https://freerangestock.com/photographer/Jack-Moreh/2728)
 # Table of Contents for Code 201
 
 ## [Class 1](reading_notes_201_class_1.md)
