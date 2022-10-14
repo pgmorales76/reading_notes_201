@@ -2,10 +2,6 @@
 
 # Table of Contents for Code 201
 
-### Hey, everyone! My name is Peter (it/its). I’m very excited to begin my coding journey at Code Fellows!
-
-# Table of Contents for Code 102
-
 ## [Class 1](reading_notes_201_class_1.md)
 
 ## [Class 2](reading_notes_201_class_2.md)
