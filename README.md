@@ -2,6 +2,9 @@
 
 ![Computer screen](/images/code_201_readme.jpg)
 
+#### [Photo by Radowan Nakif Rehan on Unsplash](https://unsplash.com/photos/cYyqhdbJ9TI?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
+  
+
 # Table of Contents for Code 201
 
 ## [Class 1](reading_notes_201_class_1.md)
