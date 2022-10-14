@@ -1,5 +1,9 @@
 ### Hey, everyone! My name is Peter (it/its). I’m very excited to continue my coding journey at Code Fellows!
 
+![Computer drawings](/images/code_201_readme.jpg)
+
+#### Photo by <a target="_blank" href="https://freerangestock.com/photographer/Jack-Moreh/2728">Jack Moreh</a> from <a target="_blank" href="https://freerangestock.com">Freerange Stock</a>
+
 # Table of Contents for Code 201
 
 ## [Class 1](reading_notes_201_class_1.md)
