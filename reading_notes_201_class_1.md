@@ -114,7 +114,13 @@
 
 [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
+### *Describe 2 things that **require** JavaScript in the Browser?*
 
+#### Variables and functions. What this amounts to is interactivity and functions that execute the interactivity
+
+### *How can you add JavaScript to an HTML document?*
+
+#### You can add JS in the `<head>` element, where you can place your JS (reference to a JS file) between `<script>` tags, or you can put your JS code within HTML
 
 [What is Javascript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
@@ -124,4 +130,6 @@
 
 ### But for a few elements, is HTML really needed?
 
+### Should semantic elements always be used over non-semantic ones?
 
+### When are proper instances to put JS in HTML?
