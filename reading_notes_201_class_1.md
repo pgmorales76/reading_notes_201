@@ -52,7 +52,37 @@
 
 ### *What is an HTML attribute?*
 
-#### 
+#### An attribute extends an HTML element, changing its behavior or providing metadata [Attribute](https://developer.mozilla.org/en-US/docs/Glossary/Attribute)
+
+![Attribute Anatomy](/images/html_element_attribute_anatomy.png)
+
+### *Describe the Anatomy of an HTMl element*
+
+#### The opening tag: This consists of the name of the element, wrapped in opening and closing angle brackets. This opening tag marks where the element begins
+
+#### The content: This includes the content of the element
+
+#### The closing tag: This is the same as the opening tag, except that it includes a forward slash before the element name. This marks where the element ends
+
+![HTML Element Anatomy](/images/html_element_anatomy.png)
+
+### *What is the Difference between `<article>` and `<section>` element tags?*
+
+#### The `article` element wraps self-contained content in the HTML document, that's independent from the rest of the page
+
+#### The `section` element wraps a generic section of the HTML document, which doesn't have a more specific semantic element to contain it
+
+### *What Elements does a “typical” website include?*
+
+#### A typical website will include the following elements: `<header>`, `<nav>`, `<main>`, `<aside>`, and `<footer>`
+
+### *How does metadata influence Search Engine Optimization?*
+
+#### The `meta` element provides keywords for search engines to determine relevance of that page
+
+### *How is the `<meta>` HTML tag used when specifying metadata?*
+
+#### Specifying the document's character encoding; adding an author and description; favicons; applying CSS and JavaScript to a page; setting the primary language of the document
 
 [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 
@@ -61,6 +91,10 @@
 [HTML Document Structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 
 [Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
+
+### What is the first step to designing a Website?
+
+#### 
 
 [How to start to design a Website](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Thinking_before_coding)
 
