@@ -52,7 +52,7 @@
 
 ### *What is an HTML attribute?*
 
-#### An attribute extends an HTML element, changing its behavior or providing metadata [Attribute](https://developer.mozilla.org/en-US/docs/Glossary/Attribute)
+#### An attribute extends an HTML element, changing its behavior or providing metadata
 
 ![Attribute Anatomy](/images/html_element_attribute_anatomy.png)
 
