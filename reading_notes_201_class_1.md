@@ -92,16 +92,36 @@
 
 [Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
 
-### What is the first step to designing a Website?
+### *What is the first step to designing a Website?*
 
-#### 
+#### Layout your goals and vision. This is called "project ideation"
+
+### *What is the most important question to answer when designing a Website?*
+
+#### Ask yourself this question: what are you trying to accomplish? If you can answer this, designing the site will be easier
 
 [How to start to design a Website](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Thinking_before_coding)
 
+### *Why should you use an `<h1>` element over a `<span>` element to display a top level heading?*
+
+#### Semantically, the `<h1>` element will be rendered as large and bold, drawing the reader's attention to it, which is what the purpose of semantic elements are.
+
+#### The `<span>` element is a generic inline container for phrasing content, which does not inherently represent anything. This doesn't serve the semantic purpose in the way the `<h1>` element does
+
+### *What are the benefits of using semantic tags in our HTML?*
+
+#### Semantic elements render in the page a certain way, thud serving a specific purpose other elements don't
+
 [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+
+
 
 [What is Javascript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
 ## Things I Want to Know More About
 
 ### What are the most reliable sites (outside of Google) for finding images?
+
+### But for a few elements, is HTML really needed?
+
+
