@@ -74,7 +74,7 @@
 
 ## *An if statement checks a __ and if it evaluates to ___, then the code block will execute.*
 
-### conditioon; `true`
+### condition; `true`
 
 ## *What is the use of an `else if`?*
 
