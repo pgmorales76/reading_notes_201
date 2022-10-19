@@ -36,33 +36,35 @@
 
 ## *What are ways we can apply CSS to our HTML?*
 
-### 
+### There are three methods of applying CSS to a document: with an external stylesheet, with an internal stylesheet, and with inline styles
 
 ## *Why should we avoid using inline styles?*
 
-###
+### First, it is the least efficient implementation of CSS for maintenance. One styling change might require multiple edits within a single web page. Second, inline CSS also mixes (CSS) presentational code with HTML and content, making everything more difficult to read and understand. Separating code and content makes maintenance easier for all who work on the website
+
+![Anatomy of a CSS ruleset by Mozilla](/images/anatomy_of_a_css_ruleset.png)
 
 ## *What is representing the selector?*
 
-###
+### `h2`
 
 ## *Which components are the CSS declarations?*
 
-###
+### The propery and the property value
 
 ## *Which components are considered properties?*
 
-###
+### `color` and `padding`
 
 [How CSS is structured](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured)
 
 ## *What data type is a sequence of text enclosed in single quote marks?*
 
-###
+### A string
 
 ## *List 4 types of JavaScript operators.*
 
-###
+### Assignment (`=`), strict equality (`===`), not (`!`), and does not equal (`!==`)
 
 ## *Describe a real world Problem you could solve with a Function.*
 
