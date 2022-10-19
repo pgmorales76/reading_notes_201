@@ -12,19 +12,21 @@
 
 ## *Why is it important to use semantic elements in our HTML?*
 
-### 
+### It's a good idea to use the relevant HTML element for the job. We need to make sure we are using the correct elements, giving our content the correct meaning, function, or appearance. In this context, the `<h1>` element is also a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page."
+
+### By default, the browser will give it a large font size to make it look like a heading (although you could style it to look like anything you wanted using CSS). More importantly, its semantic value will be used in multiple ways, for example by search engines and screen readers
 
 ## *How many levels of headings are there in HTML?*
 
-###
+### 6
 
 ## *What are some uses for the `<sup>` and `<sub>` elements?*
 
-###
+### You will occasionally need to use superscript and subscript when marking up items like dates, chemical formulae, and mathematical equations so they have the correct meaning
 
 ## *When using the `<abbr>` element, what attribute must be added to provide the full expansion of the term?*
 
-###
+### If providing the expansion in addition to the abbreviation makes little sense, and the abbreviation or acronym is a fairly shortened term, provide the full expansion of the term as the value of `title` attribute
 
 [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 
@@ -34,7 +36,7 @@
 
 ## *What are ways we can apply CSS to our HTML?*
 
-###
+### 
 
 ## *Why should we avoid using inline styles?*
 
