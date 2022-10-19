@@ -66,15 +66,15 @@
 
 ### Assignment (`=`), strict equality (`===`), not (`!`), and does not equal (`!==`)
 
-## *Describe a real world Problem you could solve with a Function.*
+## *Describe a real world problem you could solve with a function.*
 
-###
+### Prompting a user to enter a password; alerting the user their input is invalid, adding an image changer, or adding a personalized welcome message
 
 [Javascript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics#comments)
 
 ## *An if statement checks a __ and if it evaluates to ___, then the code block will execute.*
 
-###
+### 
 
 ## *What is the use of an `else if`?*
 
