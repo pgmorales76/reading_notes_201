@@ -74,24 +74,38 @@
 
 ## *An if statement checks a __ and if it evaluates to ___, then the code block will execute.*
 
-### 
+### conditioon; `true`
 
 ## *What is the use of an `else if`?*
 
-###
+### If the `if` statement condition evaluates to `false`, the `else if` statement provides another condition for the program to evaluate
+
+### There is a way to chain on extra choices/outcomes to your `if...else` — using `else if`. Each extra choice requires an additional block to put in between `if () { }` and `else { }`
+
+[What are the differences between if, else, and else if? Stack Overflow](https://stackoverflow.com/questions/1439907/what-are-the-differences-between-if-else-and-else-if)
 
 ## *List 3 different types of comparison operators.*
 
-###
+### `===` and `!==` — test if one value is identical to, or not identical to, another
+
+### `<` and `>` — test if one value is less than or greater than another
+
+### `<=` and `>=` — test if one value is less than or equal to, or greater than or equal to, another
 
 ## *What is the difference between the logical operator `&&` and `||`?*
 
-###
+### `&&` — AND; allows you to chain together two or more expressions so that all of them have to individually evaluate to `true` for the whole expression to return `true`
+
+### `||` — OR; allows you to chain together two or more expressions so that one or more of them have to individually evaluate to `true` for the whole expression to return `true`
 
 [Making Your Decisions In Your Code - Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
 
 ## Things I Want to Know More About
 
-###
+### When, if ever, should non-semantic elements be utilized?
+
+### When, if ever, should inline styling be utilized?
+
+### Functions in the DOM
 
 [How to Write a Git Commit Message](https://cbea.ms/git-commit/)
