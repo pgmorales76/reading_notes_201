@@ -34,7 +34,7 @@
 
 ###
 
-## *List and describe the four parts of an HTML elements box as referred to by the box model.*
+## *List and describe the four parts of an HTML elements box as referred to by the `box model`.*
 
 ### 
 
@@ -62,7 +62,7 @@
 
 ###
 
-## *Give an example of when a Loop is useful in JavaScript.*
+## *Give an example of when a `Loop` is useful in JavaScript.*
 
 ###
 
