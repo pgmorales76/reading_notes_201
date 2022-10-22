@@ -10,19 +10,21 @@
 
 ## *When should you use an `unordered list` in your HTML document?*
 
-### 
+### The `<ul>` element is for grouping a collection of items that do not have a numerical ordering, and their order in the list is meaningless
 
 ## *How do you change the `bullet style` of unordered list items?*
 
-### 
+### The `type` attribute sets the bullet style for the list
 
 ## *When should you use an `ordered list` vs an `unordered list` in your HTML document?*
 
-###
+### 
 
 ## *Describe two ways you can change the numbers on `list items` provided by an `ordered list`?*
 
-###
+### One attribute you can use is the `type` attribute, which will set the numbering type
+
+### Another attribute you can use is the `reversed` attribute, which specifies the list's items are in reverese order. The list items will be numbered from high to low
 
 [Learn HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
@@ -78,4 +80,6 @@
 
 ## Things I Want to Know More About
 
-### 
+### If you're uncertain about whether items in a list need to be ordered, should you use the `<ul>` element?
+
+###
