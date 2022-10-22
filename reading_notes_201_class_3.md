@@ -115,3 +115,5 @@
 ### What are some easy methods to manipulate the box model to make styling easier?
 
 ### How are arrays used in most websites?
+
+### Why doesn't the value of `false` print in `console.log();`?
