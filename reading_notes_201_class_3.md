@@ -42,7 +42,7 @@
 
 ### The CSS box model as a whole applies to block boxes and defines how the different parts of a box — margin, border, padding, and content — work together to create a box that you can see on a page. Inline boxes use just some of the behavior defined in the box model
 
-### Making up a block box in CSS we have the:
+### Making up a block box in CSS we have the
 
 ### **Content box**: The area where your content is displayed; size it using properties like inline-size and block-size or width and height
 
@@ -60,27 +60,43 @@
 
 ## *What `data types` can you store inside of an `Array`?*
 
-###
+### An array can store various data types — strings, numbers, objects, and even other arrays
 
 ## *Is the `people` array a valid JavaScript array? If so, how can I access the values stored? If not, why?*
 
-###
+### Yes
+
+### Items in an array are numbered, starting from zero. This number is called the item's *index*. So the first item has index 0, the second has index 1, and so on. You can access individual items in the array using bracket notation and supplying the item's index, in the same way that you accessed the letters in a string
+
+    const shopping = ['bread', 'milk', 'cheese', 'hummus', 'noodles'];`
+    console.log(shopping[0]);
+    // returns "bread"`
 
 ## *List **five** shorthand operators for assignment in javascript and describe what they do.*
 
-###
+### The assignment operator (`x = f()`) is used to assign a value to a variable. The assignment operation evaluates to the assigned value
+
+### The addition operator (`x += f()`) adds the value of the right operand to a variable and assigns the result to the variable. The types of the two operands determine the behavior of the addition assignment operator. Addition or concatenation is possible
+
+### The subtraction operator (`x -= f()`) subtracts the value of the right operand from a variable and assigns the result to the variable
+
+### The multiplication operator (`x *= f()`) multiplies a variable by the value of the right operand and assigns the result to the variable
+
+### The division operator (`x /= f()`) divides a variable by the value of the right operand and assigns the result to the variable
+
+### The remainder operator (`x %= f()`) divides a variable by the value of the right operand and assigns the remainder to the variable
 
 ## *Read the code below and evaluate the last `expression` and explain what the result would be and why.*
 
-###
+### The expression evaluates to `10dog` because, even though `c` is assigned the value of `false`, it doesn't print in `console.log();`. Therefore, what `console.log();` prints is `10dog`
 
 ## *Describe a real world example of when a conditional statement should be used in a JavaScript program.*
 
-###
+### If a user is required to input a password, the password must be correct for the user to proceed to their account page. You wouldn't want access to be granted if the password was incorrect.
 
 ## *Give an example of when a `Loop` is useful in JavaScript.*
 
-###
+### You're counting the number of days to an important occasion
 
 [Learn JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
@@ -96,4 +112,6 @@
 
 ### If you're uncertain about whether items in a list need to be ordered, should you use the `<ul>` element?
 
-###
+### What are some easy methods to manipulate the box model to make styling easier?
+
+### How are arrays used in most websites?
