@@ -52,7 +52,7 @@
 
 ### **Margin box**: The margin is the outermost layer, wrapping the content, padding, and border as whitespace between this box and other elements; size it using margin and related properties
 
-![The CSS Box Model](/images/box_model.png)
+![The CSS Box Model from Mozilla](/images/box_model.png)
 
 [Learn CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 
