@@ -6,15 +6,30 @@
 
 ## *To create a basic link, we wrap text or other content inside what element?*
 
-### 
+### A basic link is created by wrapping the text or other content, inside an `<a>` element and using the `href` attribute, also known as a **Hypertext Reference**, or **target**, that contains the web address
+
+    <p>
+        I'm creating a link to
+        <a href="https://www.mozilla.org/en-US/">the Mozilla homepage</a>.
+    </p>
 
 ## *The `href` attribute contains what information?*
 
-### 
+### The URL that the hyperlink points to
 
 ## *What are some ways we can ensure links on our pages are accessible to all readers?*
 
-### 
+### The content inside a link should indicate where the link goes, even out of context
+
+### You should only use a hyperlink for navigation to a real URL
+
+### Links that open in a new tab/window via `target="_blank"`, or links that point to a download file should indicate what will happen when the link is followed
+
+### Skip links could be used to let keyboard users bypass content repeated throughout multiple pages, such as header navigation
+
+### Interactive elements, like links, should provide an area large enough that it is easy to activate them
+
+### Interactive elements, like links, placed in close visual proximity should have space separating them
 
 [Learn HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 
@@ -22,7 +37,7 @@
 
 ## *What is meant by “normal flow”?*
 
-### 
+### elements on a webpage lay out in normal flow if you haven't applied any CSS to change the way they behave
 
 ## *What are a few differences between `block-level` and `inline` elements?*
 
