@@ -92,7 +92,7 @@
 
 ## *Describe a real world example of when a conditional statement should be used in a JavaScript program.*
 
-### If a user is required to input a password, the password must be correct for the user to proceed to their account page. You wouldn't want access to be granted if the password was incorrect.
+### If a user is required to input a password, the password must be correct for the user to proceed to their account page. You wouldn't want access to be granted if the password was incorrect
 
 ## *Give an example of when a `Loop` is useful in JavaScript.*
 
