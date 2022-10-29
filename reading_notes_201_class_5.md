@@ -2,7 +2,9 @@
 
 ## Why This Topic Matters
 
-### 
+### This topic matters because accessibilty is important consideration in web development. Having as many users as possible should be the ideal. And always consider the following: never assume a user will experience a webpage the way you do. Everyone is different (and so am I!)
+
+### A webpage with no color is, basically, a Word document or a page in a novel (not that there's anything wrong with that!). To give a user as aesthetically pleasing an experience as possible, should be the ideal to strive for in web development
 
 ## *What is a real world use case for the `alt` attribute being used in a website?*
 
