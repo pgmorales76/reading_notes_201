@@ -40,23 +40,27 @@
 
 ## *Describe the difference between foreground and background colors of an HTML element, pretend you are talking to someone with no technical knowledge.*
 
-###
+### Basically, the foreground is what's "closest" to you in an image. The background is what's further away
+
+### At a fundamental level, the `color` property defines the foreground color of an HTML element's content and the `background-color` property defines the element's background color
 
 ## *Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character?*
 
-###
+### I'd start off by asking them what colors they like. After they gave some idea of the colors they found to be aesthetically pleasing, I'd use a color wheel to find complimentary colors
+
+[Color Wheel from Mozilla](https://developer.mozilla.org/en-US/docs/Glossary/Color_wheel)
 
 ## *What should you consider when choosing fonts for an HTML document?*
 
-###
+### Whether, or not, the font is included in the **Web Safe Fonts**
 
 ## *What do `font-size`, `font-weight`, and `font-style` do to HTML text elements?*
 
-###
+### `font-size` sets the size of the font; `font-weight` sets the weight (or **boldness**) of the font; `font-style` sets whether a font should be styled with a normal, italic, or oblique face from its `font-family`
 
 ## *Describe two ways you could add spacing around the characters displayed in an `h1` element.*
 
-###
+### `Letter-spacing` and `word-spacing` properties allow you to set the spacing between letters and words in your text
 
 [Learn CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 
@@ -66,6 +70,6 @@
 
 ## Things I Want to Know More About
 
-###
+### Given its accessibility advantages, is there a reason a developer shouldn't use `svg`?
 
-###
+### How did web safe fonts come to be chosen?
