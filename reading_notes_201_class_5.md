@@ -8,23 +8,27 @@
 
 ## *What is a real world use case for the `alt` attribute being used in a website?*
 
-### 
+### The user is visually impaired, and is using a screen reader to read the web out to them
 
 ## *How can you improve accessibility of images in an HTML document?*
 
-###
+### Having alt text available to describe images is useful to most users
+
+### Provide text for search engines to utilize; search engines can match alt text with search queries
 
 ## *Provide an example of when the `figure` element would be useful in an HTML document.*
 
-###
+### A semantic container for figures, and to clearly link the figure to the caption
 
 ## *Describe the difference between a `gif` image and an `svg` image, pretend you are explaining to an elder in your community.*
 
-### 
+### `gif` is a good choice for simple images and animations
+
+### `svg` is a vector image format; ideal for user interface elements, icons, diagrams, etc., that must be drawn accurately at different sizes
 
 ## *What image type would you use to display a screenshot on your website and why?*
 
-### 
+### I would use an `svg` image because of its flexibility and accessibility advantages
 
 [HTML Media](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding)
 
@@ -36,23 +40,23 @@
 
 ## *Describe the difference between foreground and background colors of an HTML element, pretend you are talking to someone with no technical knowledge.*
 
-### 
+###
 
 ## *Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character?*
 
-### 
+###
 
 ## *What should you consider when choosing fonts for an HTML document?*
 
-### 
+###
 
 ## *What do `font-size`, `font-weight`, and `font-style` do to HTML text elements?*
 
-### 
+###
 
 ## *Describe two ways you could add spacing around the characters displayed in an `h1` element.*
 
-### 
+###
 
 [Learn CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 
@@ -62,6 +66,6 @@
 
 ## Things I Want to Know More About
 
-### 
+###
 
-### 
+###
