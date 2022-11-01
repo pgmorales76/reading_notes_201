@@ -23,6 +23,7 @@
 ### You use brackets for defining an array. You use curly braces for defining an object. You would use the dot notation for accessing properties of an object
 
 ## *Evaluate the code below. What does the term `this` refer to and what is the advantage to using `this`?*
+
     // This is the dog object
     const dog = {
         name: 'Spot',
