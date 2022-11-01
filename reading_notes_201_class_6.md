@@ -2,26 +2,28 @@
 
 ## Why This Topic Matters
 
-###
+### This topic matters because we are learning how to access user input data in the most efficient way possible. This is central to the interactivity of JS
 
 ## *How would you describe an object to a non-technical friend you grew up with?*
 
-###
+### Objects are a collection of element pairs. Within the element pairs are property names, separated by a ":", and property values. Properties are identified using key values
 
 ## *What are some advantages to creating object literals?*
 
-###
+### It is very common to create an object using an object literal when you want to transfer a series of structured, related data items in some manner, for example sending a request to the server to be put into a database. Sending a single object is much more efficient than sending several items individually, and it is easier to work with than an array, when you want to identify individual items by name
 
 ## *How do objects differ from arrays?*
 
-###
+### Arrays are a type of object. Arrays are an ordered collection of data. Objects are a collection of properties
 
 ## *Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation.*
 
-###
+### If an object property name is held in a variable, then you can't use dot notation to access the value, but you can access the value using bracket notation
+
+### You use brackets for defining an array. You use curly braces for defining an object. You would use the dot notation for accessing properties of an object
 
 ## *Evaluate the code below. What does the term `this` refer to and what is the advantage to using `this`?*
-
+    // This is the dog object
     const dog = {
         name: 'Spot',
         age: 2,
@@ -31,10 +33,17 @@
         }
     }
 
-
-### 
+### The this keyword refers to the current object the code is being written inside. When you only have to create a single object literal, it's not so useful. But if you create more than one, this enables you to use the same method definition for every object you create
 
 [Javascript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
+
+## *What is the DOM?*
+
+###
+
+## *Briefly describe the relationship between the DOM and JavaScript.*
+
+###
 
 [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
@@ -44,4 +53,6 @@
 
 ## Things I Want to Know More About
 
-###
+### What do websites use more often, objects or arrays? Are there certain types of sites that prefer one over the other?
+
+### 
