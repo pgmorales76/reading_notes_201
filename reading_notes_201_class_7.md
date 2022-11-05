@@ -26,15 +26,21 @@
 
 ## *What is a constructor and what are some advantages to using it?*
 
-### 
+### A constructor belongs to a particular object that's been created. The constructor initializes the object and provides access to its data
 
-## *How does the term this differ when used in an object literal versus when used in a constructor?*
+### The reason to use constructors is if you're creating more than one object, you don't have to write out the same code for every object created; and, if you want to change some properties of the object - like adding a height property - then you have to remember to update every object
 
-### 
+## *How does the term `this` differ when used in an object literal versus when used in a constructor?*
+
+### `this` enables you to use the same method definition for every object you create
+
+### When a constructor function is called, using the `new` keyword, the constructor will bind `this` to the new object, so you can refer to `this` in the constructor code
 
 ## *Explain prototypes and inheritance via an analogy from your previous work experience.*
 
-### 
+### Prototypes are properties that link to another object. This is the beginning of the **prototype chain**
+
+### Inheritance acts in JS as a way of matching a property name to a prototype object. This seems to be similat to inheritance in CSS
 
 [Domain Modeling](https://github.com/codefellows/domain_modeling#domain-modeling)
 
@@ -50,8 +56,6 @@
 
 ### Does the domain model constantly change, as a project changes?
 
-###
+### Does the `new` keyword replace `this` when using constructors?
 
-###
-
-### 
+### It seems prototypes can go on and on. Is this ever seen?
