@@ -34,11 +34,15 @@
 
 ## *What are some advantages of using flexbox over float?*
 
-### 
+### Floats were used, originally, for floating images inside blocks of text. With better tools, it is used, today, for its original purpose
+
+### Items flex (expand) to fill additional space or shrink to fit into smaller spaces
+
+### Simple layout designs are either difficult, or impossible, to achieve with floats in any kind of convenient, flexible, way
 
 ## *How does this topic connect with your long term goals?*
 
-### 
+### This gives me an idea as to which layout techniques are worth learning, first; then, which are worth learning at another time
 
 [Learn CSS - Flexbox](https://web.dev/learn/css/flexbox/)
 
@@ -50,4 +54,4 @@
 
 ### Is the best CSS layout always contextual, or is there, generally, one should strive to use?
 
-###
+### Even though their considered to be "legacy techniques", is it a good idea to learn the old layout formats, and be able to use them, if need be?
