@@ -2,7 +2,13 @@
 
 ## Why This Topic Matters
 
-###
+### What user will appreciate, because they have no way knowing how difficult web development can be, is great styling, an engaging look for a webpage
+
+### As impressive as the logic of your code may be, you must be able to understand the end-user isn't going to appreciate (or have any way of understanding) that aspect of the webpage. What they're going to care about is if they can find what it is they're looking for on a page, and if they have a pleasant aesthetic experience
+
+### Most webpages aren't designed for us. They're designed for people **unlike** us. Don't fight reality. Work with it and make it your own
+
+### Lastly, accessbility in design is **very** important. Always remember: don't assume the user is like you. You don't have to assume the user **ISN'T** like you, but just keeo in mind not everyone is experiencing the page the way you do. Make as accessible as possible. Good design achieves that!
 
 ## *Flexbox is designed for one-dimensional content. Explain what this means.*
 
@@ -28,7 +34,7 @@
 
 ## *What are some advantages of using flexbox over float?*
 
-###
+### 
 
 ## *How does this topic connect with your long term goals?*
 
@@ -42,6 +48,6 @@
 
 ## Things I Want to Know More About
 
-###
+### Is the best CSS layout always contextual, or is there, generally, one should strive to use?
 
 ###
