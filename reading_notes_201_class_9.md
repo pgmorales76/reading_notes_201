@@ -2,7 +2,9 @@
 
 ## Why This Topic Matters
 
-###
+### Adding forms to webpages affords the user the opportunity to interact with the page, thus making the experience more enjoyable
+
+### By bringing together HTML and JS in this context, a developer is able to manipulate the page, dynamically, based on what the user inputs
 
 ## *Why are forms so important in web development?*
 
