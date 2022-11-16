@@ -2,15 +2,21 @@
 
 ## Why This Topic Matters
 
-###
+### Developers, invariably, make mistakes. Being able to fix those mistakes is a crucial skill to learn
+
+### Knowing the proper tools and techniques to use for this purpose will make fixing those mistakes easier
 
 ## *Name some key differences between a Syntax Error and a Logic Error.*
 
-###
+### **Syntax errors** are spelling errors in your code that actually cause the program not to run at all, or stop working part way through
+
+### **Logic errors** are errors where the syntax is actually correct, but the code is not what you intended it to be, meaning that program runs successfully but gives incorrect results
 
 ## *List a few types of errors that you have encountered in past lab assignments and explain how you were able to correct them.*
 
-###
+### `Undefined` - 
+
+### `NaN` -  
 
 ## *How will this topic continue to influence your long term goals?*
 
