@@ -20,8 +20,6 @@
 
 ### 
 
-## 
-
 [Video and Audio Content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
 
 ## *How does Grid layout differ from Flex?*
@@ -31,7 +29,6 @@
 ## *Grid container, grid item, and grid line are a few important terms to understand when using Grid. Please describe these terms in a few sentences.*
 
 ###
-
 
 [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
