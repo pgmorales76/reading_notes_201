@@ -2,7 +2,7 @@
 
 ## Why This Topic Matters
 
-### 
+### These concepts add interactivity to the user experience. They also make the webpage/website more enjoyable
 
 ## *Explain how the ability to use video and audio on the web has evolved since the early 2000s.*
 
@@ -18,7 +18,7 @@
 
 ## *Write a very short story where `<audio>` and `<video>` are characters.*
 
-### 
+### `<audio>` was offended by how `<video>` looked. `<video>` was offended by how `<audio>` sounded. They decided to not comment-in any more. They both were bugged too easily!
 
 [Video and Audio Content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
 
@@ -52,4 +52,8 @@
 
 ## Things I Want to Know More About
 
-### 
+### How do video/audio elements affect accessibility?
+
+### Does Grid make working with css easier?
+
+### How do responsive images affect accessibility?
