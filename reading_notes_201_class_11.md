@@ -40,15 +40,23 @@
 
 ## *Besides making a site visually appealing across different screen sizes, why should developers make images responsive?*
 
-###
+### The general problem whereby you want to serve different cropped images in that way, for various layouts, is commonly known as the **art direction problem**
+
+### Also, there's no need to embed large images on the page if it is being viewed on a mobile screen. And conversely, a small image starts to look grainy when displayed larger than its original size. This is called the *resolution switching problem*
+
+### Conversely, it is unnecessary to display a large image on a screen significantly smaller than the size it was meant for. Doing so can waste bandwidth
+
+### To make things more complicated, some devices have high resolution screens that need larger images than you might expect to display nicely
 
 ## *Define the following `<img>` attributes `srcset` and `sizes`. Write an example of how they are used.*
 
-### 
+### `srcset` defines the set of images that will allow the browser to choose between images, and what size each image is
+
+### `sizes` defines a set of media conditions (screen widths) and indicates what image size would be best to choose, when certain media conditions are true
 
 ## *How is `srcset` more helpful for responsive images than CSS or JavaScript?*
 
-### 
+### Rather than taking an image of random size and resizing it (which may have unwanted/unintended consequences, as mentioned above) by providing several image sizes, this gives the browser much more flexibility and the user a better experience
 
 [Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
 
