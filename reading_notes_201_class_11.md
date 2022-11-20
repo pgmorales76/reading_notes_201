@@ -6,15 +6,17 @@
 
 ## *Explain how the ability to use video and audio on the web has evolved since the early 2000s.*
 
-###
+### Technologies like Flash and Silverlight were the firsts to produce video content on the world wide web. Both of these had security and accessibility issues, and are now obsolete, in favor of native HTML solutions `<video>` and `<audio>` elements and the availability of JavaScript APIs
 
 ## *Describe the use of the `src` and `controls` attributes in the `<video>` element.*
 
-### 
+### In the same way as for the `<img>` element, the `src` (source) attribute contains a path to the video you want to embed
+
+### Users must be able to control video and audio playback. You must either use the `controls` attribute to include the browser's own control interface, or build your interface using the appropriate JavaScript API
 
 ## *Why is it important to have **fallback content** inside the `<video>` element?*
 
-###
+### This will be displayed if the browser accessing the page doesn't support the `<video>` element, allowing us to provide a fallback for older browsers
 
 ## *Write a very short story where `<audio>` and `<video>` are characters.*
 
@@ -24,11 +26,15 @@
 
 ## *How does Grid layout differ from Flex?*
 
-###
+### Flex is one-directinal (meaning it's directional orientation can be up/down **OR** left/right), whereas Grid is two-directional (meaning it's directional orientation may be up/down **AND** left/right)
 
 ## *Grid container, grid item, and grid line are a few important terms to understand when using Grid. Please describe these terms in a few sentences.*
 
-###
+### **Grid Container** is the element on which `display: grid` is applied. It’s the direct parent of all the grid items
+
+### **Grid Item** is the children (i.e. *direct* descendants) of the grid container
+
+### **Grid Line** are the dividing lines that make up the structure of the grid. They can be either vertical (“column grid lines”) or horizontal (“row grid lines”) and reside on either side of a row or column
 
 [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
