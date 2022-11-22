@@ -50,4 +50,4 @@
 
 ### Does learing how to draw with the `<canvas>` element require any artistic skills, or is it, simply, learning how to write a program, as we've been doing all along?
 
-### What are the best visual aids for whom don't like the presentation of numbers?
+### What are the best visual aids for those who don't like the presentation of numbers?
