@@ -2,7 +2,7 @@
 
 ## Why This Topic Matters
 
-### Storing information, locally, on a user's computer, enables a web developer to use other user's computers as storage space. This frees the developer's computer from having to store all the information on their machine 
+### Storing information, locally, on a user's computer, enables a web developer to use other user's computers as storage space. This frees the developer's computer from having to store all the information on their machine
 
 ## *Why would a developer use local storage for a web application?*
 
