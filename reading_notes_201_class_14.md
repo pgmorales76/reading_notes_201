@@ -44,4 +44,4 @@
 
 ## Things I Want to Know More About
 
-### Should you only use animations when you, absolutely, have to? Or, is it a better idead to use animations everywhere, unless it's better, for some reason, to use transitions?
+### Should you only use animations when you, absolutely, have to? Or, is it a better idea to use animations everywhere, unless it's better, for some reason, to use transitions?
