@@ -35,4 +35,6 @@
 
 ## [Class 14](reading_notes_201_class_14.md)
 
+## [Class 14 - Psychological Safety](reading_notes_201_class_14_psychological_safety.md)
+
 ## [Class 15](reading_notes_201_class_15.md)
